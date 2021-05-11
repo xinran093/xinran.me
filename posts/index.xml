@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Xinran</title>
+        <link>ttps://xinran093.github.io/xinran.me/posts/</link>
+        <description>All Posts | Xinran</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 07 May 2021 20:23:40 -0500</lastBuildDate><atom:link href="#ZgotmplZ" rel="self" type="application/rss+xml" /><item>
+    <title>What I learned from the Social Network Analysis Class</title>
+    <link>ttps://xinran093.github.io/xinran.me/posts/sna-reflect/</link>
+    <pubDate>Fri, 07 May 2021 20:23:40 -0500</pubDate>
+    <author>Author</author>
+    <guid>ttps://xinran093.github.io/xinran.me/posts/sna-reflect/</guid>
+    <description><![CDATA[Introduction This semester, I took a course titled CI 8371 - Applied Social Network Analysis in Education taught by Prof. Bodong Chen. This course introduced a novel research methodology - Social Network Analysis (SNA), with topics including the techniques, application, and the ethics of SNA in education research. SNA is powerful to unveil the invisible yet important connections between communications, concepts and many other kinds of networks.
+I am intrigued by the word &ldquo;connection&rdquo;.]]></description>
+</item></channel>
+</rss>
